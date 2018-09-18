@@ -1,4 +1,4 @@
-# Git Information
+## Git Information
 
 <img src="http://shijuvarghese.com/wp-content/uploads/2018/03/git-logo.png" alt="drawing" width="100"/>
 
