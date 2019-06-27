@@ -1,1 +1,31 @@
- 
+Hi Chris,
+
+Hope you’re well. Has there been any progress with organising a move? Here’s a description of the role I’m in at Nomura.
+
+Since arriving at Nomura in January my work has been mostly Alteryx based and has been focussed on the following projects:
+
+1.	Automation of a Product Control journal posting process
+I have worked with process owners within the finance team to automate a process previously requiring a number of manual steps in in Excel. I have engaged with the users to define the process and put it into Alteryx, constructed and carried out a testing plan and documented the process. Following the completion of the build and testing I have instructed the users in operating the Alteryx workflow and pushed it to a production area.
+
+2.	Recalculation of client charges to remedy a broken IT process
+There is a regulatory requirement to report trading charges to clients at the end of the financial year. The system designed to calculate these charges was found to be operating incorrectly just before the deadline. I built an Alteryx workflow to recalculate the charges in order to compile charges statements for sending to clients. This was a time-pressured project involving gathering information for wide-ranging areas of the business in order to build  the workflow accurately. It involved meticulous documentation of the process and regular reviews with senior colleagues. 
+
+3.	Fails analysis for identification of problematic business areas
+I have built an Alteryx workflow to analyse trade fails data to identify which areas of the business are particularly prone to trade failures. This is in anticipation of an upcoming regulatory change that will bring in penalties for failing trades. The results of the analysis will be used to address the root causes of the trade failures. 
+
+4.	Analysis of KYC (know your client) data
+I have built an Alteryx workflow to analyse the time taken to update client details and identify points at which the process is slowed down. This has involved working with the business users who are currently attempting to carry out this analysis in Excel and scaling the analysis to fit the capabilities of Alteryx.
+
+
+Although I am based within the Finance team items 2, 3 and 4 have been for Operations. I have approached managers from this area of the business to explain my skills and identify opportunities to use them effectively in their processes.
+
+Access to databases has been limited and the data for the projects listed above has generally been delivered in a single large dump. Occasionally I have had to request an updated version of the working data but have not been able to directly query this myself.
+
+As mentioned above Alteryx is almost exclusively the tool that I have used at Nomura. There have been some opportunities to use python within Alteryx where other solutions weren’t available but there is no defined deployment model for python within my area of the business and some attitudes towards python are that it is unnecessarily risky to build it into processes.
+
+As Kubrick consultants we are typically the most senior technical professionals working on a given project – this has offered a good opportunity to work autonomously and present solutions to the wider team but as a first data role has limited my ability to learn industry best practices or to have on-hand technical direction.
+
+
+Best regards,
+
+Matt
